@@ -1,0 +1,7 @@
+export const DEL_TODO = 'DEL_TODO'
+export const ADD_TODO='ADD_TODO'
+export const TOGGLE_TODO='TOGGLE_TODO'
+export const ORDER_TODOS='ORDER_TODOS'
+export const MOVE_TODO='MOVE_TODO'
+export const ADD_GROUP='ADD_GROUP'
+export const DEL_GROUP='DEL_GROUP'
